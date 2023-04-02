@@ -4,6 +4,7 @@
 
 Latest youtube video
 
-Languages and Tools
+### Languages and Tools
+![Python](https://img.shields.io/static/v1?&message=<Python>&color=<090909>?style=for-the-badge&logo=python&LogoColor=32CD32)
 
 Follow me
