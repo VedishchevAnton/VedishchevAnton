@@ -4,7 +4,7 @@
 
 ## I'm а beginner Python Development!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedishchevAnton](https://github.com/VedishchevAnton/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedishchevanton)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
