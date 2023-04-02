@@ -4,11 +4,11 @@
 
 ## I'm а beginner Python Development!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedishchevanton)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedishchevanton)](https://github.com/VedishchevAnton?tab=repositories)
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=9ACD32)](https://github.com/VedishchevAnton?tab=repositories)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=9ACD32)](https://www.python.org/)
 
 ## Follow me
 
