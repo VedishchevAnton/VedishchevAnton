@@ -3,8 +3,6 @@
 
 ## I'm а beginner Python Development!
 
-Latest youtube video
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=9ACD32)
 
