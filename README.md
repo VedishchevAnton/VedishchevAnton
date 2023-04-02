@@ -4,7 +4,7 @@
 ## I'm а beginner Python Development!
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=9ACD32)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=9ACD32)](https://github.com/VedishchevAnton?tab=repositories)
 
 ## Follow me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/a.vedishev)
